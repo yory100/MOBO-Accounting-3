@@ -37,14 +37,14 @@
     margin-left: 15px; }
   .hero-area .contents {
     padding: 210px 0 280px; }
-  #business-plan .business-item-info h3 {
+  #about-us .business-item-info h3 {
     font-size: 28px; }
-  #business-plan .business-item-info p {
-    font-size: 13px;
+  #about-us .business-item-info p {
+    font-size: 18px;
     margin-bottom: 20px; }
   .section {
     padding: 80px 0px; }
-  #business-plan {
+  #about-us {
     padding-bottom: 80px; }
   .feature-info {
     width: 60%; }
@@ -71,8 +71,6 @@
   #footer-Content ul.menu li a {
     font-size: 14px;
     line-height: 31px; }
-  #footer-Content {
-    padding-top: 80px; }
   #footer-Content .copyright {
     margin-top: 80px; }
   .hero-area .contents h2 {
@@ -212,13 +210,13 @@
   #services .services-item {
     padding: 30px 15px;
     margin-bottom: 15px; }
-  #business-plane .business-item-info h3 {
+  #about-us .business-item-info h3 {
     font-size: 25px; }
   .section-header .section-title {
     font-size: 25px; }
   #services .services-item p {
     font-size: 14px; }
-  #business-plane .business-item-info p {
+  #about-us .business-item-info p {
     font-size: 14px;
     margin-bottom: 20px; }
   .section-header .desc-text p {
@@ -292,7 +290,6 @@
   #footer-Content .footer-logo img {
     padding-top: 0; }
   #footer-Content {
-    padding-top: 30px;
     background: #180e29; }
   #footer-Content .footer-logo img {
     padding-top: 0;
@@ -411,8 +408,6 @@
     font-size: 18px; }
   #blog .blog-item-wrapper a.read-more {
     font-size: 12px; }
-  #footer-Content {
-    padding-top: 100px; }
   #footer-Content .copyright {
     margin-top: 100px; }
   .hero-area .contents p {
