@@ -992,7 +992,7 @@ button:focus {
    Our Pricing 
    ========================================================================== */
 #pricing .pricing-table {
-  padding: 55px;
+  padding: 55px 0;
   border: 1px solid #ccc;
   -moz-transition: all .8s ease;
   -webkit-transition: all .8s ease;

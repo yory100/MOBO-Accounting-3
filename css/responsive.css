@@ -105,7 +105,7 @@
     display: block;
     line-height: 25px; }
   #pricing .pricing-table {
-    padding: 30px 15px; }
+    padding: 30px; }
   #pricing .pricing-table h1 span {
     left: 10%; }
   #team .single-team, .blog-item-wrapper, .services-item {
@@ -353,9 +353,7 @@
     width: 80%; }
   #footer-Content h3.block-title {
     margin-bottom: 18px;
-    margin-top: 15px; }
-  .back-to-top {
-    display: none !important; } }
+    margin-top: 15px; }}
 
 @media (min-width: 375px) and (max-width: 667px) {
   #showcase .showcase-slider .screenshot-thumb > .hover-content {
