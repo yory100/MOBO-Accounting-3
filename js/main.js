@@ -73,12 +73,5 @@
   close_toggle();
   $(window).resize(close_toggle);
 
-  /* Auto Close Responsive Navbar on Click
-  ========================================================*/
-  $('#contactForm').submit(function ( event ) {
-    alertify.success('Благодарим ви за отделеното внимане. Ще се свържем с вас');
-    // event.preventDefault();
-  });
-
 }(jQuery));
 
