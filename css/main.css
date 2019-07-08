@@ -208,6 +208,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   border-color: #3c96ff;
   border-style: solid;
   background: linear-gradient(to right, #3c96ff 0%, #2dfbff 100%);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: all 0.3s ease-in-out;
@@ -217,6 +218,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .btn-apple i {
   background: linear-gradient(to right, #3c96ff 0%, #2dfbff 100%);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; }
 
@@ -224,6 +226,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .btn-apple:active,
 .btn-apple:focus {
   background: linear-gradient(to right, #3c96ff 0%, #2dfbff 100%) !important;
+  background-clip: text;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important; }
 
@@ -605,7 +608,8 @@ button:focus {
     overflow: hidden;
     -moz-transition: all .8s ease;
     -webkit-transition: all .8s ease;
-    transition: all .8s ease; }
+    transition: all .8s ease; 
+    height: 100%;}
     #features .feature-item .feature-icon {
       background: #e3fff2;
       width: 100px;
